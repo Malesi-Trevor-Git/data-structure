@@ -115,6 +115,17 @@ class SinglyLinkedList:
         while value is not None:
             print(value.data)
             value=value.next
+    #insert at the end of the linked list
+    def atEndOfLinkedList(self,endData):
+        NewNode=SinglyLinkedListNode(endData)
+        if self.head is None:
+            self.head=NewNode
+            return
+        last=self.head
+        while (last.next):
+            last=last.next
+        last.next=NewNode
+
 #create an instance of the singly linked list
 s=SinglyLinkedList()
 s.head=SinglyLinkedListNode("Monday")
@@ -122,4 +133,7 @@ second=SinglyLinkedListNode("Tuesday")
 third=SinglyLinkedListNode("Wednesday")
 s.head.next=second
 second.next=third
+s.printSinglyLinkedList()
+s.atEndOfLinkedList("Thursday")
+print("----------")
 s.printSinglyLinkedList()

@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f7450d5-f460-4abd-b873-313193440d69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_played_tracks.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/played_tracks.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch-introduction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotify-pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scientific-computing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scientific-computing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy-intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/numpy-intro.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unity-vision" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,6 +44,7 @@
       <updated>1646234932673</updated>
       <workItem from="1646234938492" duration="735000" />
       <workItem from="1646646650178" duration="127000" />
+      <workItem from="1646924729054" duration="22000" />
     </task>
     <servers />
   </component>
